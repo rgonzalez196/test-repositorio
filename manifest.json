@@ -1,0 +1,6 @@
+{
+  "name": "SegundaPrueba",
+  "short_name": "SegundaPrueba",
+  "start_url": "/",
+  "display": "standalone"
+}
